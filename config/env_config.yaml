@@ -1,0 +1,9 @@
+development:
+  base_url: "http://dev-api.example.com"
+  timeout: 10
+testing:
+  base_url: "http://test-api.example.com"
+  timeout: 15
+production:
+  base_url: "http://api.example.com"
+  timeout: 5
